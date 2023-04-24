@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+.blocks{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.c1{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    margin: 1px 1px 10px 10px;
+    border: 1px solid whitesmoke;
+    background-color: whitesmoke;
+    height: 200px; width: 300px;
+}

@@ -1,0 +1,28 @@
+
+#exampleFormControlInput1{
+    border-bottom: 1px solid rgb(176, 171, 171);
+    width: 250px;
+
+}
+#s1{
+    border: 1px solid rgb(176, 171, 171);
+    width: 360px;
+
+
+}
+#s1 input{
+    background: transparent;
+    border: none;
+    outline: none;
+    margin: 0px;
+}
+#s1 textarea{
+    background: transparent;
+    border: none;
+    outline: none;
+    margin: 0px;
+}
+#orange{
+    border-bottom: 8px solid orange;
+    width: 250px;
+}
